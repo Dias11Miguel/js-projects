@@ -1,0 +1,21 @@
+body{
+background-color: #00BFFF;
+font: normal 10pt Arial;
+
+}
+header{
+color:azure;
+text-align: center;
+font: normal 15pt Arial;
+
+}
+
+div {
+
+background-color: azure;
+border-radius: 15px;
+height: 80px;
+padding: 80px;
+margin: 70px;
+
+}
